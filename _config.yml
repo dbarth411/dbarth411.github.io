@@ -1,13 +1,13 @@
 # Site settings
 author: David Bartholomew
-title: Learning Data Science
+title: A Biblical Studies Graduate
 header-img: img/home-bg.png
 email: dbarth411@gmail.com
 copyright_name: David Bartholomew
 description: > # this means to ignore newlines until "baseurl:"
-  My Data Science Journey
+  Learning data science like nobody's business
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: dbarth411
 github_username:  dbarth411
 
 # Build settings
