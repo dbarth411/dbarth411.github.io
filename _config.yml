@@ -1,11 +1,11 @@
 # Site settings
 author: David Bartholomew
-title: 
+title: Learning Data Science
 header-img: img/home-bg.png
 email: dbarth411@gmail.com
 copyright_name: David Bartholomew
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Data Science Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dbarth411
